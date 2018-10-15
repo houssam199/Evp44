@@ -1,6 +1,6 @@
 token=NTAwODcwMzk1NDQ0OTg1ODU3.DqWqwQ.F5h-5NnYSDd5Geu1232VVwNCyf0
 owner=446784051320193035
 prefix=4
-game=Tybe 4help
+game=Triple 7
 stayinchannel=true
 songinstatus=false
